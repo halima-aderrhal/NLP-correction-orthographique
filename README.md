@@ -1,4 +1,13 @@
 
+
+# NLP Spelling Correction
+The main objective of the Natural Language Processing (NLP) project for spelling correction is to design, develop, and evaluate an automatic spelling correction system based on NLP.
+
+This system leverages LSTM networks to understand contextual relationships in textual data, enabling it to identify and correct various types of spelling errors.
+
+Through the use of annotated corpora and carefully curated training datasets, the LSTM model learns subtle patterns of correct language usage and predicts the most likely corrections for misspelled words.
+
+This project was made possible through the use of essential tools and technologies such as Python, Jupyter, Keras, TensorFlow, and Matplotlib for data analysis and visualization.
 # NLP correction orthographique
 
 L’objectif principal du Projet de NLP pour la correction orthographique est de concevoir, développer et évaluer un système de correction orthographique automatique basé sur le TALN.
