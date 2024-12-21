@@ -10,7 +10,7 @@ Through the use of annotated corpora and carefully curated training datasets, th
 This project was made possible through the use of essential tools and technologies such as Python, Jupyter, Keras, TensorFlow, and Matplotlib for data analysis and visualization.
 # NLP correction orthographique
 
-L’objectif principal du Projet de NLP pour la correction orthographique est de concevoir, développer et évaluer un système de correction orthographique automatique basé sur le TALN.
+L’objectif principal du projet de NLP pour la correction orthographique est de concevoir, développer et évaluer un système de correction orthographique automatique basé sur le TALN.
 
 Ce système exploite les réseaux LSTM pour comprendre les relations contextuelles dans les données textuelles, ce qui lui permet d’identifier et de corriger différents types d’erreurs d’orthographe.
 
